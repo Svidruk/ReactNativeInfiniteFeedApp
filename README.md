@@ -1,8 +1,6 @@
 ## App Demo
 
-1. ![Auth](assets/images/Demo1.png)
-2. ![Feed](assets/images/Demo2.png)
-3. ![Profile](assets/images/Demo3.png)
+![Auth](assets/images/gifdemo.gif)
 
 ## how to start
 
