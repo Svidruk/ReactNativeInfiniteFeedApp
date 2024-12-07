@@ -65,20 +65,6 @@ const styles = StyleSheet.create({
   },
   avatar: {width: 100, height: 100, borderRadius: 50, marginBottom: 32},
   info: {fontSize: 18, marginBottom: 10},
-  button: {
-    backgroundColor: '#6200EE',
-    paddingVertical: 10,
-    paddingHorizontal: 20,
-    borderRadius: 25,
-    marginTop: 20,
-    width: '100%',
-  },
-  buttonText: {
-    color: '#fff',
-    fontSize: 18,
-    fontWeight: 'bold',
-    textAlign: 'center',
-  },
 });
 
 export default Profile;
