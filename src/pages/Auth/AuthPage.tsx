@@ -90,20 +90,6 @@ const styles = StyleSheet.create({
   },
   errorInput: {borderColor: 'red'},
   errorText: {color: 'red', marginBottom: 10},
-  button: {
-    backgroundColor: '#6200EE',
-    paddingVertical: 10,
-    paddingHorizontal: 20,
-    borderRadius: 25,
-    marginTop: 20,
-    width: '100%',
-  },
-  buttonText: {
-    color: '#fff',
-    fontSize: 18,
-    fontWeight: 'bold',
-    textAlign: 'center',
-  },
 });
 
 export default AuthScreen;
