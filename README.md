@@ -1,34 +1,14 @@
-## Step 1: Start the Metro Server
+## App Demo
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+1. ![Auth](assets/images/Demo1.png)
+2. ![Feed](assets/images/Demo2.png)
+3. ![Profile](assets/images/Demo3.png)
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## how to start
 
 ```bash
-# using npm
 npm i
+
 npm start
 ```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-### For iOS
-```
-
-```bash
-# using npm
-npm run ios
-
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+not tested on IOS

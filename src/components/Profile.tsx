@@ -14,7 +14,7 @@ const Profile = () => {
 
   useEffect(() => {
     const loadUserData = async () => {
-      const userId = 1;
+      const userId = 4;
       const userData = await getUserData(userId);
       if (userData) {
         setUser(userData);
